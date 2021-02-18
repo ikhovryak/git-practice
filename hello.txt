@@ -1,0 +1,1 @@
+Hello! This is a test for a git workshop in CS 312 class!
